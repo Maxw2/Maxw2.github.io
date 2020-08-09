@@ -2,7 +2,8 @@
 layout: post
 title:  "浅谈JavaScript数据间的转换类型"
 date:   2020-08-09 19:52:39 +0800
-categories: jekyll update
+categories: javaScript 
+tags: javaScript
 ---
 最近在进行面试的时候遇到了这样几道题，结果没有回答出来，感觉对于一些数据类型还是停留在不知所以然的程度上，所以在此进行记录。
 
